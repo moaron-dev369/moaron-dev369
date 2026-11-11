@@ -1,16 +1,21 @@
-## Hi there 👋
+# Salut, moi c'est Moaron 👋
 
-<!--
-**moaron-dev369/moaron-dev369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Setter & Closer | J'aide les devs et les créateurs à transformer leurs compétences en clients.**
 
-Here are some ideas to get you started:
+Je suis du Bénin. J'apprends le code et le business en public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ce que je fais :
+- 🎯 Setter & Closer : Je transforme les conversations en clients
+- 💻 J'apprends le code : HTML, CSS, JavaScript
+- ✍️ J'écris en public sur Dev.to et Substack
+
+### Retrouve-moi :
+- 📝 Dev.to : https://dev.to/moaron
+- ✍️ Substack : https://substack.com/@moarondev
+- 💼 LinkedIn : Bientôt
+
+### En ce moment :
+- 🌱 J'apprends à coder et à closer
+- 🚀 Je construis ma présence en ligne, jour après jour
+
+> "On ne naît pas closer, on le devient."
